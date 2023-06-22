@@ -1,0 +1,32 @@
+
+
+.box{
+    width:100%;
+    height: auto;
+    border: 1px solid black;
+}
+
+.row{
+    width: 90%;
+    height: 300px;
+    border: 1px solid rgb(78, 77, 77);
+    margin: 32px 10px 10px 57px;
+}
+
+app-app-child{
+    display: block;
+    width:45%;
+    height: 200px;
+    border: 1px solid rgb(78, 77, 77);
+    margin: 29px 23px 0 23px;
+    float: left;
+}
+
+app-app-child2{
+    display: block;
+    width:45%;
+    height: 200px;
+    border: 1px solid rgb(78, 77, 77);
+    margin-top: 29px;
+    float: left;
+}
